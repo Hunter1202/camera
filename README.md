@@ -1,2 +1,2 @@
 # camera
-js camera for fun
+a tailwind-js camera for fun
